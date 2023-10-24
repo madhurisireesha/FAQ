@@ -11,10 +11,13 @@
     width:50vw;
     justify-content: space-between;
     align-items: center;
-  
+   color:#52606d;
    box-sizing: border-box;
 } 
 .buu{
     border:none;
     background:none;
+}
+.answer{
+    color:#9aa5b1;
 }
