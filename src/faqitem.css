@@ -1,0 +1,20 @@
+.inner{
+    display: flex;
+    flex-direction: column;
+    border:solid 2px rgb(246, 242, 242);
+   box-sizing: border-box;
+   width:50vw;
+}
+.question{
+    display:flex;
+    flex-direction: row;
+    width:50vw;
+    justify-content: space-between;
+    align-items: center;
+  
+   box-sizing: border-box;
+} 
+.buu{
+    border:none;
+    background:none;
+}
